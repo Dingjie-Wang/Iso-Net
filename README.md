@@ -1,7 +1,7 @@
 # Manual for construction of co-expression networks using Iso-Net
 This tutorial will help you infer co-expression networks using Iso-Net based on exon-level expression data. If you experience any problems following these steps, please don't hesitate to contact Dingjie.Wang@osumc.edu. <br>
 
-# 1. System Requirements
+# 1. Requirements
 (1) System Requirements: Windows or Linux operating system, and R 3.6.1 or later <br>
 (2) R package required: CompQuadForm and survey <br>
 
