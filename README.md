@@ -7,7 +7,7 @@ This tutorial will help you infer co-expression networks using Iso-Net based on 
 
 # 2. Download lastest version of Iso-Net
 In order to run Iso-Net, you should first fetch the source code from Iso-Net git repository. <br>
-$ git clone --recursive *** <br>
+$ git clone --recursive https://github.com/Dingjie-Wang/Iso-Net.git <br>
 $ cd Iso-Net <br>
 
 # 3. Run Iso-Net
